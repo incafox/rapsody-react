@@ -57,7 +57,7 @@ const ListMusic = () => {
   return (
     <div
       style={{
-        height: "77vh",
+        height: "76vh",
         backgroundColor: "black",
         color: "white",
       }}
